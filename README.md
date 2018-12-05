@@ -29,11 +29,7 @@ Step 6: Create New Project in RStudio → Version Control →  Git → Paste Rep
 
 ![2](https://user-images.githubusercontent.com/45618275/49507248-0a4a1480-f8bb-11e8-9b56-dff88971d41a.png)
 
-![image](https://user-images.githubusercontent.com/45618275/49507206-eedf0980-f8ba-11e8-879b-afe91646da8d.png)
-
-![default](https://user-images.githubusercontent.com/45618275/49507245-07e7ba80-f8bb-11e8-81c1-b43b36458df7.png)
-
-![image](https://user-images.githubusercontent.com/45618275/49507549-9fe5a400-f8bb-11e8-8c99-e457a1df48e5.png)
+![image](https://user-images.githubusercontent.com/45618275/49507852-52b60200-f8bc-11e8-8a4c-66e8fd50b294.png)
 
 
 
