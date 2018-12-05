@@ -33,6 +33,9 @@ Step 6: Create New Project in RStudio → Version Control →  Git → Paste Rep
 
 ![default](https://user-images.githubusercontent.com/45618275/49508041-bb04e380-f8bc-11e8-999c-eba42d630a25.png)
 
+Step 7: Download IRIS dataset
+
+![default](https://user-images.githubusercontent.com/45618275/49508707-59457900-f8be-11e8-9947-9a4cd6defded.png)
 
 
 
