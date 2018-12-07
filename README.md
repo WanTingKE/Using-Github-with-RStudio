@@ -1,5 +1,5 @@
 <h1>Using Github with RStudio
----
+
 <h2>Step 1: Setup Github account
 <h2>Step 2:Download platform-specific version of Git (https://git-scm.com/downloads) and Install
 
