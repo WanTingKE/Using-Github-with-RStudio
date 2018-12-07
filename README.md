@@ -1,11 +1,11 @@
-<h1>Using Github with RStudio
+***<h1>Using Github with RStudio
 ***
-<h2>Step 1: Setup Github account
+<h2>Step 1: Setup Github account<h2>
 
 <h2>Step 2:Download platform-specific version of Git (https://git-scm.com/downloads) and Install
 
 ![image](https://user-images.githubusercontent.com/45618275/49503587-c94e0200-f8b2-11e8-9b63-7bd04f9c3ce2.png)
-
+***
 Step 3:Open Git Bash
 
 ![default](https://user-images.githubusercontent.com/45618275/49505964-d6b9bb00-f8b7-11e8-8485-fe9147e9445a.png)
