@@ -1,5 +1,4 @@
-#Using Github with RStudio
-Reference website: https://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/
+Using Github with RStudio
 
 Step 1: Setup Github account
 
@@ -53,9 +52,14 @@ Step 10:If your commit log show "error", you just need to click "Pull" and then 
 ![2](https://user-images.githubusercontent.com/45618275/49620665-e42c8d80-f9fc-11e8-8844-d123399b77be.PNG)
 ![3](https://user-images.githubusercontent.com/45618275/49620906-f529ce80-f9fd-11e8-8a56-443d20f810a4.PNG)
 
-###Step 11:Success interface
+Step 11:Success interface
 ![image](https://user-images.githubusercontent.com/45618275/49620649-d8d96200-f9fc-11e8-8eef-19653e8a6545.png)
 
+
+Reference website: 
+https://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/
+https://www.youtube.com/watch?v=E2d91v1Twcc
+https://www.youtube.com/watch?v=-c2uNqEE6-c
 
 
 
