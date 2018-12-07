@@ -1,7 +1,8 @@
 <h1>Using Github with RStudio
 
 <h2>Step 1: Setup Github account
-<h2>Step 2:Download platform-specific version of Git (https://git-scm.com/downloads) and Install
+<h2>Step 2:
+Download platform-specific version of Git (https://git-scm.com/downloads) and Install
 
 ![image](https://user-images.githubusercontent.com/45618275/49503587-c94e0200-f8b2-11e8-9b63-7bd04f9c3ce2.png)
 
@@ -46,12 +47,14 @@ Step 8: Commit .Rproj
 Step 9: Push to Github → Sign in Github account
 ![default](https://user-images.githubusercontent.com/45618275/49620285-310f6480-f9fb-11e8-9fea-1b1d229712ba.png)
 
-Step 10:If your commit log show "error", you just need to click "Pull" and then click "Push" again.
+Step 10: 
+If your commit log show "error", you just need to click "Pull" and then click "Push" again.
 ![default](https://user-images.githubusercontent.com/45618275/49620655-dd057f80-f9fc-11e8-8f1c-38d8c30614b5.PNG)
 ![2](https://user-images.githubusercontent.com/45618275/49620665-e42c8d80-f9fc-11e8-8844-d123399b77be.PNG)
 ![3](https://user-images.githubusercontent.com/45618275/49620906-f529ce80-f9fd-11e8-8a56-443d20f810a4.PNG)
 
-Step 11:Success interface
+Step 11:
+Success interface
 ![image](https://user-images.githubusercontent.com/45618275/49620649-d8d96200-f9fc-11e8-8eef-19653e8a6545.png)
 
 
