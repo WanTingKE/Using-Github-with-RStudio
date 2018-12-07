@@ -37,6 +37,18 @@ Step 7: Download IRIS dataset
 
 ![default](https://user-images.githubusercontent.com/45618275/49508707-59457900-f8be-11e8-9947-9a4cd6defded.png)
 
+Step 8: Commit .Rproj 
+
+![default](https://user-images.githubusercontent.com/45618275/49620090-70898100-f9fa-11e8-97ec-92f4905b58a7.png)
+
+![default](https://user-images.githubusercontent.com/45618275/49620194-d2e28180-f9fa-11e8-822e-489fc588160f.png)
+
+![image](https://user-images.githubusercontent.com/45618275/49620221-e68de800-f9fa-11e8-96d2-ec2173485c1b.png)
+
+Step 9: Push to Github → Sign in Github account
+![default](https://user-images.githubusercontent.com/45618275/49620285-310f6480-f9fb-11e8-9fea-1b1d229712ba.png)
+
+
 
 
 
